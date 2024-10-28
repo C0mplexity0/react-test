@@ -1,0 +1,16 @@
+{
+  "name": "React Test",
+  "author": "C0mplexity",
+  "description": "Edit game.json to change these details",
+  "icon": "./icon.png",
+  "thumbnail": "./thumbnail.png",
+  "socials": [
+    "https://github.com/C0mplexity0"
+  ],
+
+  "appRoot": "./dist/index_app.html",
+  "webRoot": "./dist/index_web.html",
+
+  "devAppUrl": "http://localhost:3000/index_app.html",
+  "devWebUrl": "http://localhost:3001/index_web.html"
+}
